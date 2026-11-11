@@ -1,0 +1,33 @@
+Wellkit CLI Binary End User Licence Agreement (0.x preview)
+Copyright (c) BarretoTech. All rights reserved.
+
+1. Permission. BarretoTech grants you a non-exclusive, worldwide, royalty-free
+licence to install and use the unmodified Wellkit CLI and its launcher for any
+purpose, including commercial use. You may redistribute unmodified copies if
+you preserve this agreement and all third-party copyright and licence notices.
+No licence to the proprietary source code is granted.
+
+2. Restrictions. You may not redistribute modified versions of the proprietary
+binaries. You may not reverse engineer, decompile or disassemble proprietary
+parts of the software, except to the extent permitted by applicable law or the
+third-party licences described below. No trademark rights are granted.
+
+3. Third-party software. Third-party components remain governed by their own
+licences in notices.zip and the release SBOM. Those licences prevail over any
+conflicting provision here, including rights to source, modification,
+redistribution, relinking and reverse engineering to debug modifications.
+This agreement does not restrict those rights or decide the licence of any
+separately distributed Wellkit component library.
+
+4. Preview and warranty. This is an unsigned 0.x preview. The software is
+provided "AS IS", without warranties of any kind, including merchantability,
+fitness for a particular purpose or non-infringement. You are responsible for
+verifying results and for decisions made using them.
+
+5. Liability. To the maximum extent permitted by applicable law, BarretoTech
+is not liable for losses, damages or other liability arising from the software
+or its use. Nothing here excludes a right or liability that law cannot exclude.
+
+6. Termination. Permission to use the proprietary parts ends if you materially
+breach this agreement. Termination does not limit rights granted independently
+by third-party licences or applicable law.
