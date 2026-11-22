@@ -2,8 +2,8 @@
   "imports": [
     {
       "source": "BarretoTech/enterprise-adrs/packs/ci-runners",
-      "version": "1.4.1",
-      "importedAt": "2026-11-21T23:40:05.624Z",
+      "version": "1.4.2",
+      "importedAt": "2026-11-22T00:34:08.324Z",
       "adrIds": [
         "ARCH-001"
       ]
